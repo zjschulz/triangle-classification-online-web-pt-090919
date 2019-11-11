@@ -35,8 +35,16 @@ class Triangle
             end
         end
     end
+<<<<<<< HEAD
 
 class TriangleError < StandardError
 end
 
+=======
+    
+end
+
+class TriangleError < StandardError
+    
+>>>>>>> 607905318ad7b5efc32a67aa8065d9d97e57d731
 end
